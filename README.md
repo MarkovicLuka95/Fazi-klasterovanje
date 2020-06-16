@@ -1,5 +1,5 @@
 # Fazi-klasterovanje
-Opis fazi algoritama i njihova implementacija
+Opis fazi klasterovanja i implementacija FCM i Gustafson-Kessel algoritma
 
 ### :wrench: Pokretanje programa
 Za kodove je koriscen jezik python i razvojno okruzenje pyCharm. \
